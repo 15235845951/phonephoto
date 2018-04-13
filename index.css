@@ -1,0 +1,178 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:57:05
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-18 08:22:47
+*/
+body{
+	background: pink;
+}
+.box{
+  width: 377px;
+  height: 773px;
+  background: #cbc4b4;
+  margin:  0 auto;
+  border-radius: 41px;
+  box-shadow: 0 0 1px 3px black ;
+  float: left;
+
+  }
+  .box1{
+  	width: 377px;
+  	height: 74px;
+  	background: #c6bfaf;
+  	border-radius: 41px;
+    position: relative;
+
+  }
+  .box2{
+  	width: 350px;
+  	height: 619px;
+  	background: black;
+  	margin: 0 auto;
+    position: relative;
+  	/* box-shadow: 0 0 1px 1px black ; */
+  }
+  .box3{
+  	width: 100%;
+  	height: 40px;
+  background: #cbc4b4;
+    background: #cbc4b4;
+    border-radius: 41px;
+  }
+  .box4{
+       width:60px ;
+       height:30px; 
+       background: white;
+       border:2px solid black ;
+       margin-top: 25px;
+       margin-left: 150px;
+       border-radius: 30%;
+  }
+  .shexiang{
+      width: 5px;
+      height: 5px;
+      background: black;
+     
+      border-radius: 50%;
+      border:2px solid black ;
+      position: absolute;
+       top: 24px;
+   left: 104px;
+  }
+  .shexiangkong{
+      width: 10px;
+      height: 10px;
+      background: black;
+     
+      border-radius: 50%;
+      border:2px solid black ;
+      position: absolute;
+       top: 20px;
+      right: 120px;
+  }
+  .yinliang{
+      width: 75px;
+      height: 5px;
+      background: black;
+     
+      border-radius: 30px;
+      border:2px solid black ;
+      position: absolute;
+       top: 24px;
+       left: 149px;
+  }
+  .kaiguan{
+    width: 4px;
+    height: 51px;
+    background:red;
+    /* border:2px solid black ; */
+     position: absolute;
+       top:193px;
+       right: -20px;
+
+  }
+  .yinliangjian{
+    width: 4px;
+    height: 20px;
+    background:red;
+    /* border:2px solid black ; */
+     position: absolute;
+       top:170px;
+       left: -20px;
+
+  }
+   .yinliangjian2{
+    width: 4px;
+    height: 20px;
+    background:red;
+    /* border:2px solid black ; */
+     position: absolute;
+       top:140px;
+       left: -20px;
+
+  }
+  .samsung{
+    position: absolute;
+    top: 40px;
+    left:137px;
+    font-size: 30px;
+  }
+.beimian{
+   width: 377px;
+   height: 773px;
+  background: #cbc4b4;
+  margin :  0 auto;
+  border-radius: 41px;
+  box-shadow: 0 0 1px 3px black ;
+  
+  position: relative;
+
+}
+.shexiangtou{
+  width: 138px;
+   height: 87px;
+   position: absolute;
+   top: 81px;
+   left: 139px;
+   position: relative;
+   
+}
+.shanguangdeng{
+  position: absolute;
+top: 9px;
+right: 0px;
+
+}
+.beimian .yinliangjian{
+    width: px;
+    height: 20px;
+    background:red;
+    /* border:2px solid black ; */
+     position: absolute;
+       top:170px;
+       left: 241px;
+
+  }
+ .beimian .yinliangjian2{
+    width: 4px;
+    height: 20px;
+    background:red;
+    /* border:2px solid black ; */
+     position: absolute;
+       top:140px;
+       left: 241px;
+
+  }
+ .beimian .kaiguan{
+    width: 4px;
+    height: 51px;
+    background:red;
+    /* border:2px solid black ; */
+     position: absolute;
+       top:188px;
+       right: 278px;
+
+  }
+
+
